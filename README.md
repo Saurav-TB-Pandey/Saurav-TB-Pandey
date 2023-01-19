@@ -1,4 +1,6 @@
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" alt="handWaving" height="30" width="30" />, I'm Saurav Pandey </h1>
 # 💫 About Me:
+
 I'm Currently Learning.
 
 
