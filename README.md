@@ -1,8 +1,14 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" alt="handWaving" height="30" width="30" />, I'm Saurav Pandey </h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Saurav-TB-Pandey&label=Profile%20views&color=0e75b6&style=flat" alt="Saurav_TB_Pandey" /> </p>
+
 # 💫 About Me:
 
-I'm Currently Learning.
+- 🔭 I’m currently Learning **Python**
 
+- 👨‍💻 All of my projects are available [**HERE**](https://github.com/Saurav-TB-Pandey)
+
+- 📫 You can reach me by [**MY-GMAIL**](mailto:pandeysaurav878@gmail.com)
 
 <h3 align="left">📩 Connect with me:</h3>
 <p align="left">
@@ -16,8 +22,11 @@ I'm Currently Learning.
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Saurav-TB-Pandey&theme=radical&hide_border=false)<br/>
+
+<h4>Coding 👇🏻<h4/>
+<a href="https://www.codechef.com/users/pandeyji9570" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Saurav_TB_Pandey" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/pandeyji0495" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="singhkunal01" height="30" width="40" /></a>&nbsp;&nbsp;
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Saurav-TB-Pandey&theme=radical&no-frame=false&no-bg=false&margin-w=4)
