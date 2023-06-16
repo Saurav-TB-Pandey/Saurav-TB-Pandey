@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently Learning **Python**
+- 🔭 I’m currently Learning **Java**
 
 - 👨‍💻 All of my projects are available [**HERE**](https://github.com/Saurav-TB-Pandey)
 
