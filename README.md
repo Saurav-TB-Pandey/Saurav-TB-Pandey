@@ -213,22 +213,12 @@ const sauravPandey = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Saurav-TB-Pandey">
-    <img src="https://github-readme-stats.vercel.app/api?username=Saurav-TB-Pandey&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
-  </a>
-  <a href="https://github.com/Saurav-TB-Pandey">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saurav-TB-Pandey&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Saurav-TB-Pandey&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saurav-TB-Pandey&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="170"/>
 </div>
 
 <div align="center">
-  <a href="https://github.com/Saurav-TB-Pandey">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurav-TB-Pandey&layout=compact&theme=tokyonight&hide_border=false&langs_count=8&card_width=320" alt="Top Languages" height="180"/>
-  </a>
-</div>
-
-<div align="center">
-  <sub>⚠️ <i>If stats don't load immediately, please refresh the page or wait a few seconds for the services to generate them.</i></sub>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurav-TB-Pandey&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Top Languages" height="170"/>
 </div>
 
 ---
@@ -236,9 +226,7 @@ const sauravPandey = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <a href="https://github.com/Saurav-TB-Pandey">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saurav-TB-Pandey&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=70a5fd" alt="Contribution Graph" width="100%"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saurav-TB-Pandey&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=70a5fd" alt="Contribution Graph" width="100%"/>
 </div>
 
 ---
@@ -299,9 +287,7 @@ const sauravPandey = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <a href="https://github.com/Saurav-TB-Pandey">
-    <img src="https://github-profile-trophy.vercel.app/?username=Saurav-TB-Pandey&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Saurav-TB-Pandey&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -331,11 +317,7 @@ const sauravPandey = {
 ---
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saurav-TB-Pandey/Saurav-TB-Pandey/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saurav-TB-Pandey/Saurav-TB-Pandey/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Saurav-TB-Pandey/Saurav-TB-Pandey/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
 
 ---
