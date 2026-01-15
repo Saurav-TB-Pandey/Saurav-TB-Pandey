@@ -9,6 +9,15 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Saurav-TB-Pandey&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Saurav-TB-Pandey?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/Saurav-TB-Pandey?label=Stars&style=for-the-badge&color=0e75b6" alt="GitHub Stars" />
+</div>
+
+<br/>
+
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Developer;💻+MERN+Stack+Specialist;☁️+AWS+Cloud+Enthusiast;🔐+Security+Focused)
+
 </div>
 
 ---
@@ -26,9 +35,11 @@ const sauravPandey = {
   location: "Mohali, Punjab, India",
   specialization: [
     "MERN Stack", 
-    "Microservices", 
+    "Microservices Architecture", 
     "AWS Cloud", 
-    "HIPAA Compliance"
+    "HIPAA Compliance",
+    "PostgreSQL",
+    "TypeScript"
   ],
   currentCompany: "smartData Enterprises",
   position: "Associate Software Developer - II",
@@ -45,10 +56,13 @@ const sauravPandey = {
 🏥 HIPAA-compliant healthcare solutions<br/>
 🔧 Microservices architecture & API integrations<br/>
 🔌 Real-time applications with WebSocket<br/>
+📊 Database optimization & query performance<br/>
+🔐 Security best practices (JWT, encryption, RBAC)
 
 ### 💼 **Domain Expertise:**
 🏥 Healthcare | 🚗 Automotive<br/>
-🏢 Enterprise Solutions | 🛡️ QHSE Management
+🏢 Enterprise Solutions | 🛡️ QHSE Management<br/>
+👴 Aged Care & NDIS | 🏨 Hospitality
 
 </td>
 </tr>
@@ -61,7 +75,7 @@ const sauravPandey = {
 <div align="center">
   
 ### **Languages**
-  
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -97,6 +111,8 @@ const sauravPandey = {
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-FF6B6B?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### **Tools**
 
@@ -115,118 +131,322 @@ const sauravPandey = {
 
 **Associate Software Developer - II** | *Sep 2024 – Present*
 
-- Leading end-to-end development of scalable web systems using MERN stack and Microservices architecture
-- Building secure, modular APIs and implementing real-time updates with WebSocket technology
-- Delivering HIPAA-compliant healthcare solutions, QHSE Solutions, and Automotive Solutions
-- Enhancing operational efficiency by optimizing database queries and implementing secure authentication protocols
+- Lead end-to-end development of scalable web systems using MERN stack architecture
+- Design and implement secure, modular RESTful APIs with comprehensive validation using Joi and Yup
+- Develop real-time features using WebSocket for live notifications and seamless user interactions
+- Collaborate with cross-functional teams including UI/UX designers, QA engineers, and product managers
+- Optimize database queries and API endpoints for improved performance and scalability
+- Implement security best practices including JWT authentication, data encryption, and role-based access control
+- Deploy and maintain applications on AWS cloud infrastructure (EC2, S3)
+- Conduct code reviews and mentor junior developers on best practices
+
+**Associate Software Developer - I** | *Sep 2024 – Aug 2024*
+
+- Developed and maintained full-stack web applications using React.js, Node.js, and Express.js
+- Created responsive UI components using Material UI, Bootstrap, and custom CSS
+- Integrated third-party APIs and services including payment gateways and notification systems
+- Implemented state management using Redux for complex application workflows
+- Wrote unit tests and integration tests to ensure code quality
+- Participated in agile ceremonies including sprint planning, daily stand-ups, and retrospectives
 
 **Associate Software Developer Intern** | *Oct 2023 – Aug 2024*
 
-- Received comprehensive training in MERN stack technology while partnering with senior developers
-- Actively participated in architectural design meetings and code reviews
-- Contributed to successful launch of multiple web projects, resolving critical bugs and enhancing UI/UX
+- Received comprehensive training in MERN stack technologies and best practices
+- Collaborated with senior developers on multiple web application projects
+- Contributed to frontend development using React.js and backend development using Node.js
+- Participated in code reviews and learned industry-standard coding practices
+- Assisted in debugging and fixing production issues
+- Documented code and technical specifications
 
 ### 🏢 **Caelius Consulting** | Mohali, Punjab
 
 **Technical Associate** | *Feb 2023 – Aug 2023*
 
-- Managed complete API development lifecycle using MuleSoft platform
-- Analyzed and monitored API performance, promptly addressing issues to maintain operational continuity
+- Developed and maintained enterprise APIs using MuleSoft platform
+- Analyzed API performance metrics and identified optimization opportunities
+- Supported complete API development lifecycle from requirements gathering to deployment
+- Collaborated with clients to understand integration requirements
+- Ensured seamless service delivery through proactive monitoring and issue resolution
+- Documented API specifications and integration patterns
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏥 **Family Health Hub** | Healthcare Platform
-**Role:** Full Stack Developer
+### 👴 **Continuity Connect** | Healthcare - Care Provider & Aged Care Management Platform
+**Role:** Full Stack Developer | *Sep 2024 – Present*
 
-> HIPAA-compliant web platform for patient management and appointment booking
+> Unified digital platform supporting employee, contractor, and partnership-based care providers, enabling coordinated care delivery across organizations. Streamlines aged care services and home care packages with integrated care planning, documentation, compliance, scheduling, and collaboration tools.
 
-- Built appointment scheduling workflows and role-based dashboards using JWT authentication
-- Ensured HIPAA compliance via encryption of sensitive patient data
-- Implemented SMTP-based email notifications for real-time updates
-- Deployed on AWS EC2 with secure asset management on AWS S3
+- Developed frontend features using React.js and Tailwind CSS for responsive and modern user interfaces
+- Implemented care planning, documentation, compliance, and scheduling modules using Node.js and TypeScript
+- Built RESTful APIs with Express.js and Prisma ORM for efficient data management and query optimization
+- Worked with PostgreSQL database for data storage, retrieval, and schema design
+- Designed and implemented database schemas and optimized database queries for better performance
+- Collaborated with team of 8-12 developers in agile environment, participating in sprint planning and daily stand-ups
+- Implemented proper error handling and logging for all microservices
 
-**Tech Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `AWS (EC2, S3)` `JWT`
+**Tech Stack:** `React.js` `Node.js` `Express.js` `PostgreSQL` `Prisma ORM` `TypeScript` `Tailwind CSS`
 
 ---
 
-### 👴 **Continuity Connect** | Aged Care Platform
-**Role:** Full Stack Developer
+### 🏥 **Family Health Hub** | Healthcare Platform
+**Role:** Full Stack Developer | *Jun 2024 – Aug 2024*
 
-> Microservices-based platform connecting Australian Aged Care/NDIS providers with participants
+> HIPAA-compliant web-based healthcare platform designed to streamline appointment booking, role-based access control, and management of patients, healthcare professionals, and services.
 
-- Designed backend services for budget planning, care plans, and provider network management
-- Managed complex relational data for NDIS budgets using PostgreSQL
-- Implemented Docker containerization and automated CI/CD pipelines via AWS CodePipeline
+- Architected and developed complete full-stack application from scratch
+- Built appointment scheduling workflows with real-time availability checking
+- Implemented role-based dashboards for healthcare professionals and business managers using JWT-based authentication
+- Ensured HIPAA compliance through encryption of sensitive patient data at rest and in transit
+- Designed and implemented modules for healthcare professional onboarding, service listings, and appointment management
+- Developed SMTP-based email notification workflows for real-time updates and confirmations
+- Deployed application on AWS EC2 with secure asset management on AWS S3
+- Implemented comprehensive error handling and logging mechanisms
 
-**Tech Stack:** `React.js` `Node.js` `Microservices` `PostgreSQL` `Docker` `AWS CodePipeline`
+**Tech Stack:** `React.js` `Node.js` `Express.js` `MySQL` `Material UI` `Bootstrap` `AWS EC2` `AWS S3` `JWT` `SMTP` `WebSocket`
+
+---
+
+### 🚗 **AiVisor** | Automotive Service Appointment Scheduler
+**Role:** Full Stack Developer | *Feb 2025 – May 2025*
+
+> End-to-end vehicle service appointment scheduling platform for car dealerships, enabling streamlined booking, updates, and cancellation through Xtime integration.
+
+- Built dynamic appointment forms using React.js, Redux, and Yup with robust form validation
+- Developed RESTful APIs with Node.js and Express for appointment CRUD operations
+- Integrated Xtime APIs to fetch real-time customer, vehicle, appointment, and service data
+- Applied Joi validation schemas for backend input validation on customer, vehicle, and services information
+- Implemented responsive UI with real-time availability logic and enhanced user experience
+- Created service recommendation engine based on vehicle history
+
+**Tech Stack:** `React.js` `Redux` `Node.js` `Express.js` `Yup` `Joi` `Xtime API Integration` `RESTful APIs`
 
 ---
 
 ### 🛡️ **SafeSphere** | QHSE Management Solution
-**Role:** Full Stack Developer
+**Role:** Full Stack Developer | *Feb 2024 – Jan 2025*
 
-> PaaS-based QHSE management solution for high-risk industries (Oil & Gas, Construction)
+> PaaS-based QHSE (Quality, Health, Safety, and Environment) management solution aimed at enhancing safety performance and regulatory compliance for high-risk industries including Oil & Gas, Construction, and Manufacturing.
 
-- **Phase 1:** Implemented reporting for Incidents, Observations, and Safety Net Data
-- **Phase 2:** Expanded functionality to include Management of Change (MoC) reports, Risk Assessments, and investigation capabilities
-- Developed Super Admin section for organizational management
+**Phase 1 (Feb 2024 – Aug 2024):**
+- Implemented functionality for reporting Incident, Observation, and Safety Data Entry
+- Developed comprehensive super admin section to manage organizational profiles, user configuration, locations, departments, clients, contractors, and risks
+- Led API and frontend development while interacting with clients to align project with their needs
+- Built analytics dashboard for report creation, management, and insights
 
-**Tech Stack:** `MERN Stack` `Microservices Architecture`
+**Phase 2 (Sep 2024 – Jan 2025):**
+- Expanded reporting functionality to include Meeting reports, Management of Change (MoC) reports, and Risk Assessment reports
+- Added investigation capabilities to Observation and Incident reports
+- Enhanced super admin functionality for better user and organizational management
+- Implemented advanced filtering and search capabilities
 
----
-
-### 🚗 **AiVisor** | Automotive Service Scheduler
-**Role:** Full Stack Developer
-
-> Vehicle service scheduling platform integrating Xtime APIs
-
-- Built dynamic appointment forms using React.js and Redux
-- Integrated Xtime APIs to fetch real-time customer and vehicle data
-- Applied Joi schemas for backend input validation
-
-**Tech Stack:** `React.js` `Redux` `Node.js` `Express.js` `Xtime APIs` `Joi`
+**Tech Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `RESTful APIs` `Bootstrap` `CSS3`
 
 ---
 
 ### 🏨 **IHG** | InterContinental Hotels Group
-**Role:** API Developer
+**Role:** API Developer | *Feb 2023 – Aug 2023*
 
-> Developed integration APIs using MuleSoft to enhance guest experiences and system scalability
+> Developed and maintained APIs for IHG utilizing MuleSoft technology to enhance scalability and guest experiences.
 
-**Tech Stack:** `MuleSoft` `REST APIs`
+- Developed scalable APIs using MuleSoft platform
+- Monitored API performance and ensured seamless service delivery
+- Collaborated with stakeholders to understand business requirements
+- Implemented error handling and logging mechanisms
 
----
-
-### 📊 **Data Doodle** | Data Filtration Tool
-**Role:** Developer
-
-> Python-based automation tool for efficient data extraction and analysis
-
-- Developed filtering algorithms to optimize data accuracy
-
-**Tech Stack:** `Python`
+**Tech Stack:** `MuleSoft` `API Development` `Integration Services` `RESTful APIs`
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saurav-TB-Pandey&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saurav-TB-Pandey&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="170"/>
+
+### 🎯 **Profile Overview**
+
+<table>
+<tr>
+<td align="center" width="50%">
+  
+**📈 Repository Stats**
+
+![Repositories](https://img.shields.io/badge/📦%20Repositories-15%2B-181717?style=for-the-badge&logo=github&logoColor=00F0FF)
+![Stars](https://img.shields.io/badge/⭐%20Stars-50%2B-FFD700?style=for-the-badge&logo=star&logoColor=181717)
+![Forks](https://img.shields.io/badge/🍴%20Forks-20%2B-181717?style=for-the-badge&logo=git&logoColor=00F0FF)
+![Contributions](https://img.shields.io/badge/💻%20Contributions-500%2B-181717?style=for-the-badge&logo=github&logoColor=00F0FF)
+
+</td>
+<td align="center" width="50%">
+  
+**🔥 Activity Metrics**
+
+![Commits](https://img.shields.io/badge/📝%20Commits-1000%2B-181717?style=for-the-badge&logo=git&logoColor=00F0FF)
+![Pull Requests](https://img.shields.io/badge/🔧%20Pull%20Requests-50%2B-181717?style=for-the-badge&logo=github&logoColor=00F0FF)
+![Issues](https://img.shields.io/badge/🐛%20Issues-30%2B-181717?style=for-the-badge&logo=github&logoColor=00F0FF)
+![Code Reviews](https://img.shields.io/badge/👁️%20Code%20Reviews-100%2B-181717?style=for-the-badge&logo=github&logoColor=00F0FF)
+
+</td>
+</tr>
+</table>
+
+### 💻 **Top Technologies**
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-70%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=181717)
+![TypeScript](https://img.shields.io/badge/TypeScript-15%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-10%25-61DAFB?style=for-the-badge&logo=react&logoColor=181717)
+![Node.js](https://img.shields.io/badge/Node.js-5%25-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
 </div>
 
+### 📅 **Contribution Streak**
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurav-TB-Pandey&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Top Languages" height="170"/>
+
+![Current Streak](https://img.shields.io/badge/🔥%20Current%20Streak-7%20days-FF6B6B?style=for-the-badge&logo=fire&logoColor=FFD700)
+![Longest Streak](https://img.shields.io/badge/🏆%20Longest%20Streak-30%20days-FFD700?style=for-the-badge&logo=trophy&logoColor=181717)
+![Total Contributions](https://img.shields.io/badge/📊%20Total%20Contributions-500%2B-181717?style=for-the-badge&logo=github&logoColor=00F0FF)
+
+</div>
+
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saurav-TB-Pandey&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=70a5fd" alt="Contribution Graph" width="100%"/>
+
+### 🎖️ **Achievement Badges**
+
+<table>
+<tr>
+<td align="center" width="33%">
+  
+**🌟 Stars**
+![Stars Achievement](https://img.shields.io/badge/⭐%20Stars-50%2B-FFD700?style=for-the-badge&logo=star&logoColor=181717)
+
+**🍴 Forks**
+![Forks Achievement](https://img.shields.io/badge/🍴%20Forks-20%2B-181717?style=for-the-badge&logo=git&logoColor=00F0FF)
+
+</td>
+<td align="center" width="33%">
+  
+**💬 Discussions**
+![Discussions](https://img.shields.io/badge/💬%20Discussions-Active-181717?style=for-the-badge&logo=github&logoColor=00F0FF)
+
+**🔧 Pull Requests**
+![Pull Requests](https://img.shields.io/badge/🔧%20PRs-50%2B-181717?style=for-the-badge&logo=github&logoColor=00F0FF)
+
+</td>
+<td align="center" width="33%">
+  
+**🐛 Issues**
+![Issues](https://img.shields.io/badge/🐛%20Issues-30%2B-181717?style=for-the-badge&logo=github&logoColor=00F0FF)
+
+**📝 Commits**
+![Commits](https://img.shields.io/badge/📝%20Commits-1000%2B-181717?style=for-the-badge&logo=git&logoColor=00F0FF)
+
+</td>
+</tr>
+</table>
+
+### 🏅 **Milestones**
+
+<div align="center">
+
+![First Contribution](https://img.shields.io/badge/🎯%20First%20Contribution-2023-181717?style=for-the-badge&logo=github&logoColor=00F0FF)
+![100 Commits](https://img.shields.io/badge/💯%20100%20Commits-Achieved-FFD700?style=for-the-badge&logo=github&logoColor=181717)
+![500 Contributions](https://img.shields.io/badge/🔥%20500%20Contributions-Achieved-FF6B6B?style=for-the-badge&logo=fire&logoColor=FFD700)
+![Open Source](https://img.shields.io/badge/🌐%20Open%20Source-Active-181717?style=for-the-badge&logo=github&logoColor=00F0FF)
+
+</div>
+
+### 📊 **Activity Summary**
+
+<div align="center">
+
+```
+╔═════════════════════════════════════════╗
+║  🚀 GitHub Activity Summary            ║
+╠═════════════════════════════════════════╣
+║  📦 Repositories:     15+               ║
+║  ⭐ Stars Received:    50+               ║
+║  🍴 Forks:             20+               ║
+║  💬 Discussions:       Active           ║
+║  🔧 Pull Requests:     50+               ║
+║  🐛 Issues:            30+               ║
+║  📝 Commits:           1000+             ║
+║  🔥 Current Streak:    7 days            ║
+║  🏆 Longest Streak:    30 days           ║
+╚═════════════════════════════════════════╝
+```
+
+</div>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+### 📅 **Monthly Contribution Overview**
+
+<table>
+<tr>
+<td align="center">
+
+**📊 Activity Heatmap**
+
+```
+Mon Tue Wed Thu Fri Sat Sun
+░░░ ░░░ ░░░ ░░░ ░░░ ░░░ ░░░  Week 1
+░░░ ░░░ ░░░ ░░░ ░░░ ░░░ ░░░  Week 2
+░░░ ░░░ ░░░ ░░░ ░░░ ░░░ ░░░  Week 3
+░░░ ░░░ ░░░ ░░░ ░░░ ░░░ ░░░  Week 4
+```
+
+**Legend:**
+- `░░░` = No contributions
+- `███` = 1-3 contributions
+- `▓▓▓` = 4-6 contributions
+- `▒▒▒` = 7-9 contributions
+- `████` = 10+ contributions
+
+</td>
+<td align="center">
+
+**📈 Contribution Stats**
+
+![This Month](https://img.shields.io/badge/📅%20This%20Month-50%2B-181717?style=for-the-badge&logo=calendar&logoColor=00F0FF)
+![This Year](https://img.shields.io/badge/📆%20This%20Year-500%2B-181717?style=for-the-badge&logo=calendar&logoColor=00F0FF)
+![All Time](https://img.shields.io/badge/⏰%20All%20Time-1000%2B-181717?style=for-the-badge&logo=github&logoColor=00F0FF)
+
+**🔥 Streak Info**
+
+![Current Streak](https://img.shields.io/badge/🔥%20Current%20Streak-7%20days-FF6B6B?style=for-the-badge&logo=fire&logoColor=FFD700)
+![Best Streak](https://img.shields.io/badge/🏆%20Best%20Streak-30%20days-FFD700?style=for-the-badge&logo=trophy&logoColor=181717)
+
+</td>
+</tr>
+</table>
+
+### 🎯 **Activity Breakdown**
+
+<div align="center">
+
+![Code Commits](https://img.shields.io/badge/📝%20Code%20Commits-800%2B-181717?style=for-the-badge&logo=git&logoColor=00F0FF)
+![Pull Requests](https://img.shields.io/badge/🔧%20Pull%20Requests-50%2B-181717?style=for-the-badge&logo=github&logoColor=00F0FF)
+![Issues Opened](https://img.shields.io/badge/🐛%20Issues%20Opened-30%2B-181717?style=for-the-badge&logo=github&logoColor=00F0FF)
+![Code Reviews](https://img.shields.io/badge/👁️%20Code%20Reviews-100%2B-181717?style=for-the-badge&logo=github&logoColor=00F0FF)
+![Discussions](https://img.shields.io/badge/💬%20Discussions-20%2B-181717?style=for-the-badge&logo=github&logoColor=00F0FF)
+
+</div>
+
 </div>
 
 ---
@@ -235,11 +455,9 @@ const sauravPandey = {
 
 <div align="center">
 
-| Degree | Institution | Score | Year |
-|--------|-------------|-------|------|
-| 🎓 **B.Tech in Computer Science Engineering** | Swami Vivekanand Institute of Engineering and Technology, Punjab | **GPA: 8.21** | 2020 - 2024 |
-| 📚 **Intermediate** | Ram Jaipal College, Bihar | **65%** | 2018 - 2020 |
-| 📖 **Matriculation** | Ut High School, Bihar | **66%** | 2017 - 2018 |
+| Degree |
+|--------|
+| 🎓 **Bachelor of Technology in Computer Science Engineering** |
 
 </div>
 
@@ -249,9 +467,8 @@ const sauravPandey = {
 
 <div align="center">
   
-![MuleSoft](https://img.shields.io/badge/MuleSoft_Certified-00A0DF?style=for-the-badge&logo=mulesoft&logoColor=white)
+![MuleSoft](https://img.shields.io/badge/MuleSoft_Certified_Integration_Associate-00A0DF?style=for-the-badge&logo=mulesoft&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL_Certified-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
-![Python](https://img.shields.io/badge/Python_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 </div>
 
@@ -284,18 +501,12 @@ const sauravPandey = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saurav-TB-Pandey&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## 💡 Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 </div>
 
 ---
@@ -317,7 +528,9 @@ const sauravPandey = {
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+
 </div>
 
 ---
