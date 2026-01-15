@@ -1,0 +1,16 @@
+{
+  "name": "github-stats-updater",
+  "version": "1.0.0",
+  "description": "Automated GitHub stats updater for README",
+  "main": ".github/scripts/update-stats.js",
+  "scripts": {
+    "update-stats": "node .github/scripts/update-stats.js"
+  },
+  "dependencies": {
+    "@octokit/rest": "^20.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
+
