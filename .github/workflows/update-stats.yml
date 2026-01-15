@@ -44,7 +44,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git checkout main || git checkout -b main
-          git add Readme.md
+          git add README.md
           git diff --staged --quiet || git commit -m "📊 Update GitHub stats [skip ci]"
           git push origin main
 
