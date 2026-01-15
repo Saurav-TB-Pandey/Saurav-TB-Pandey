@@ -99,9 +99,9 @@ async function fetchGitHubStats() {
 }
 
 async function updateREADME() {
-  const stats = await fetchGitHubStats();
-  const readmePath = path.join(process.cwd(), 'README.md');
-  let readme = fs.readFileSync(readmePath, 'utf8');
+    const stats = await fetchGitHubStats();
+    const readmePath = path.join(process.cwd(), 'README.md');
+    let readme = fs.readFileSync(readmePath, 'utf8');
 
     // Update Repository Stats
     readme = readme.replace(
@@ -145,30 +145,35 @@ async function updateREADME() {
         );
     }
 
-    // Update Activity Summary box
+    // Update Activity Summary box (using box drawing characters)
+    const formatNumber = (num) => {
+        if (num >= 1000) return `${Math.floor(num / 1000)}k+`;
+        return `${num}+`;
+    };
+    
     readme = readme.replace(
-        /│  📦 Repositories:     \d+\+              │/,
-        `│  📦 Repositories:     ${stats.repos}+              │`
+        /║  📦 Repositories:     \d+\+               ║/,
+        `║  📦 Repositories:     ${formatNumber(stats.repos)}               ║`
     );
     readme = readme.replace(
-        /│  ⭐ Stars Received:    \d+\+              │/,
-        `│  ⭐ Stars Received:    ${stats.stars}+              │`
+        /║  ⭐ Stars Received:    \d+\+               ║/,
+        `║  ⭐ Stars Received:    ${formatNumber(stats.stars)}               ║`
     );
     readme = readme.replace(
-        /│  🍴 Forks:             \d+\+              │/,
-        `│  🍴 Forks:             ${stats.forks}+              │`
+        /║  🍴 Forks:             \d+\+               ║/,
+        `║  🍴 Forks:             ${formatNumber(stats.forks)}               ║`
     );
     readme = readme.replace(
-        /│  🔧 Pull Requests:     \d+\+              │/,
-        `│  🔧 Pull Requests:     ${stats.prs}+              │`
+        /║  🔧 Pull Requests:     \d+\+               ║/,
+        `║  🔧 Pull Requests:     ${formatNumber(stats.prs)}               ║`
     );
     readme = readme.replace(
-        /│  🐛 Issues:            \d+\+              │/,
-        `│  🐛 Issues:            ${stats.issues}+              │`
+        /║  🐛 Issues:            \d+\+               ║/,
+        `║  🐛 Issues:            ${formatNumber(stats.issues)}               ║`
     );
     readme = readme.replace(
-        /│  📝 Commits:           \d+\+            │/,
-        `│  📝 Commits:           ${stats.commits}+            │`
+        /║  📝 Commits:           \d+\+             ║/,
+        `║  📝 Commits:           ${formatNumber(stats.commits)}             ║`
     );
 
     // Update Achievement badges
