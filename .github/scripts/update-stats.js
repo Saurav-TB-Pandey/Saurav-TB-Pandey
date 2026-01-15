@@ -150,7 +150,7 @@ async function updateREADME() {
         if (num >= 1000) return `${Math.floor(num / 1000)}k+`;
         return `${num}+`;
     };
-    
+
     readme = readme.replace(
         /║  📦 Repositories:     \d+\+               ║/,
         `║  📦 Repositories:     ${formatNumber(stats.repos)}               ║`
