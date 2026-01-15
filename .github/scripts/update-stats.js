@@ -99,9 +99,9 @@ async function fetchGitHubStats() {
 }
 
 async function updateREADME() {
-    const stats = await fetchGitHubStats();
-    const readmePath = path.join(process.cwd(), 'Readme.md');
-    let readme = fs.readFileSync(readmePath, 'utf8');
+  const stats = await fetchGitHubStats();
+  const readmePath = path.join(process.cwd(), 'README.md');
+  let readme = fs.readFileSync(readmePath, 'utf8');
 
     // Update Repository Stats
     readme = readme.replace(
