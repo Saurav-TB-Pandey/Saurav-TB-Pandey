@@ -373,12 +373,12 @@ const sauravPandey = {
 ║  🚀 GitHub Activity Summary            ║
 ╠═════════════════════════════════════════╣
 ║  📦 Repositories:     15+               ║
-║  ⭐ Stars Received:    50+               ║
-║  🍴 Forks:             20+               ║
+║  ⭐ Stars Received:    7+               ║
+║  🍴 Forks:             0+               ║
 ║  💬 Discussions:       Active           ║
-║  🔧 Pull Requests:     50+               ║
-║  🐛 Issues:            30+               ║
-║  📝 Commits:           1000+             ║
+║  🔧 Pull Requests:     0+               ║
+║  🐛 Issues:            0+               ║
+║  📝 Commits:           0+             ║
 ║  🔥 Current Streak:    7 days            ║
 ║  🏆 Longest Streak:    30 days           ║
 ╚═════════════════════════════════════════╝
