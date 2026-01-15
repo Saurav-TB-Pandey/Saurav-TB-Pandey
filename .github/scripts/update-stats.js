@@ -164,8 +164,8 @@ async function updateREADME() {
 
     // Update Activity Summary box (using box drawing characters)
     const formatNumber = (num) => {
+        if (num === 0) return '0';
         if (num >= 1000) return `${Math.floor(num / 1000)}k+`;
-        if (num === 0) return '0+';
         return `${num}+`;
     };
 
