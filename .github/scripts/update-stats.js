@@ -112,40 +112,46 @@ async function updateREADME() {
     const readmePath = path.join(process.cwd(), 'README.md');
     let readme = fs.readFileSync(readmePath, 'utf8');
 
+    // Helper function to format badge value (0 shows as "0", not "0+")
+    const formatBadgeValue = (num) => {
+        if (num === 0) return '0';
+        return `${num}%2B`;
+    };
+
     // Update Repository Stats (matching URL-encoded format with %2B)
     readme = readme.replace(
-        /!\[Repositories\]\(https:\/\/img\.shields\.io\/badge\/📦%20Repositories-\d+%2B-181717[^)]*\)/,
-        `![Repositories](https://img.shields.io/badge/📦%20Repositories-${stats.repos}%2B-181717?style=for-the-badge&logo=github&logoColor=00F0FF)`
+        /!\[Repositories\]\(https:\/\/img\.shields\.io\/badge\/📦%20Repositories-[^)]+\)/,
+        `![Repositories](https://img.shields.io/badge/📦%20Repositories-${formatBadgeValue(stats.repos)}-181717?style=for-the-badge&logo=github&logoColor=00F0FF)`
     );
     readme = readme.replace(
-        /!\[Stars\]\(https:\/\/img\.shields\.io\/badge\/⭐%20Stars-\d+%2B-FFD700[^)]*\)/,
-        `![Stars](https://img.shields.io/badge/⭐%20Stars-${stats.stars}%2B-FFD700?style=for-the-badge&logo=star&logoColor=181717)`
+        /!\[Stars\]\(https:\/\/img\.shields\.io\/badge\/⭐%20Stars-[^)]+\)/,
+        `![Stars](https://img.shields.io/badge/⭐%20Stars-${formatBadgeValue(stats.stars)}-FFD700?style=for-the-badge&logo=star&logoColor=181717)`
     );
     readme = readme.replace(
-        /!\[Forks\]\(https:\/\/img\.shields\.io\/badge\/🍴%20Forks-\d+%2B-181717[^)]*\)/,
-        `![Forks](https://img.shields.io/badge/🍴%20Forks-${stats.forks}%2B-181717?style=for-the-badge&logo=git&logoColor=00F0FF)`
+        /!\[Forks\]\(https:\/\/img\.shields\.io\/badge\/🍴%20Forks-[^)]+\)/,
+        `![Forks](https://img.shields.io/badge/🍴%20Forks-${formatBadgeValue(stats.forks)}-181717?style=for-the-badge&logo=git&logoColor=00F0FF)`
     );
     readme = readme.replace(
-        /!\[Contributions\]\(https:\/\/img\.shields\.io\/badge\/💻%20Contributions-\d+%2B-181717[^)]*\)/,
-        `![Contributions](https://img.shields.io/badge/💻%20Contributions-${stats.commits}%2B-181717?style=for-the-badge&logo=github&logoColor=00F0FF)`
+        /!\[Contributions\]\(https:\/\/img\.shields\.io\/badge\/💻%20Contributions-[^)]+\)/,
+        `![Contributions](https://img.shields.io/badge/💻%20Contributions-${formatBadgeValue(stats.commits)}-181717?style=for-the-badge&logo=github&logoColor=00F0FF)`
     );
 
     // Update Activity Metrics
     readme = readme.replace(
-        /!\[Commits\]\(https:\/\/img\.shields\.io\/badge\/📝%20Commits-\d+%2B-181717[^)]*\)/,
-        `![Commits](https://img.shields.io/badge/📝%20Commits-${stats.commits}%2B-181717?style=for-the-badge&logo=git&logoColor=00F0FF)`
+        /!\[Commits\]\(https:\/\/img\.shields\.io\/badge\/📝%20Commits-[^)]+\)/,
+        `![Commits](https://img.shields.io/badge/📝%20Commits-${formatBadgeValue(stats.commits)}-181717?style=for-the-badge&logo=git&logoColor=00F0FF)`
     );
     readme = readme.replace(
-        /!\[Pull Requests\]\(https:\/\/img\.shields\.io\/badge\/🔧%20Pull%20Requests-\d+%2B-181717[^)]*\)/,
-        `![Pull Requests](https://img.shields.io/badge/🔧%20Pull%20Requests-${stats.prs}%2B-181717?style=for-the-badge&logo=github&logoColor=00F0FF)`
+        /!\[Pull Requests\]\(https:\/\/img\.shields\.io\/badge\/🔧%20Pull%20Requests-[^)]+\)/,
+        `![Pull Requests](https://img.shields.io/badge/🔧%20Pull%20Requests-${formatBadgeValue(stats.prs)}-181717?style=for-the-badge&logo=github&logoColor=00F0FF)`
     );
     readme = readme.replace(
-        /!\[Issues\]\(https:\/\/img\.shields\.io\/badge\/🐛%20Issues-\d+%2B-181717[^)]*\)/,
-        `![Issues](https://img.shields.io/badge/🐛%20Issues-${stats.issues}%2B-181717?style=for-the-badge&logo=github&logoColor=00F0FF)`
+        /!\[Issues\]\(https:\/\/img\.shields\.io\/badge\/🐛%20Issues-[^)]+\)/,
+        `![Issues](https://img.shields.io/badge/🐛%20Issues-${formatBadgeValue(stats.issues)}-181717?style=for-the-badge&logo=github&logoColor=00F0FF)`
     );
     readme = readme.replace(
-        /!\[Code Reviews\]\(https:\/\/img\.shields\.io\/badge\/👁️%20Code%20Reviews-\d+%2B-181717[^)]*\)/,
-        `![Code Reviews](https://img.shields.io/badge/👁️%20Code%20Reviews-${Math.floor(stats.prs * 2)}%2B-181717?style=for-the-badge&logo=github&logoColor=00F0FF)`
+        /!\[Code Reviews\]\(https:\/\/img\.shields\.io\/badge\/👁️%20Code%20Reviews-[^)]+\)/,
+        `![Code Reviews](https://img.shields.io/badge/👁️%20Code%20Reviews-${formatBadgeValue(Math.floor(stats.prs * 2))}-181717?style=for-the-badge&logo=github&logoColor=00F0FF)`
     );
 
     // Update Language percentages
@@ -197,46 +203,46 @@ async function updateREADME() {
 
     // Update Achievement badges (matching URL-encoded format)
     readme = readme.replace(
-        /!\[Stars Achievement\]\(https:\/\/img\.shields\.io\/badge\/⭐%20Stars-\d+%2B-FFD700[^)]*\)/,
-        `![Stars Achievement](https://img.shields.io/badge/⭐%20Stars-${stats.stars}%2B-FFD700?style=for-the-badge&logo=star&logoColor=181717)`
+        /!\[Stars Achievement\]\(https:\/\/img\.shields\.io\/badge\/⭐%20Stars-[^)]+\)/,
+        `![Stars Achievement](https://img.shields.io/badge/⭐%20Stars-${formatBadgeValue(stats.stars)}-FFD700?style=for-the-badge&logo=star&logoColor=181717)`
     );
     readme = readme.replace(
-        /!\[Forks Achievement\]\(https:\/\/img\.shields\.io\/badge\/🍴%20Forks-\d+%2B-181717[^)]*\)/,
-        `![Forks Achievement](https://img.shields.io/badge/🍴%20Forks-${stats.forks}%2B-181717?style=for-the-badge&logo=git&logoColor=00F0FF)`
+        /!\[Forks Achievement\]\(https:\/\/img\.shields\.io\/badge\/🍴%20Forks-[^)]+\)/,
+        `![Forks Achievement](https://img.shields.io/badge/🍴%20Forks-${formatBadgeValue(stats.forks)}-181717?style=for-the-badge&logo=git&logoColor=00F0FF)`
     );
     readme = readme.replace(
-        /!\[Pull Requests\]\(https:\/\/img\.shields\.io\/badge\/🔧%20PRs-\d+%2B-181717[^)]*\)/,
-        `![Pull Requests](https://img.shields.io/badge/🔧%20PRs-${stats.prs}%2B-181717?style=for-the-badge&logo=github&logoColor=00F0FF)`
+        /!\[Pull Requests\]\(https:\/\/img\.shields\.io\/badge\/🔧%20PRs-[^)]+\)/,
+        `![Pull Requests](https://img.shields.io/badge/🔧%20PRs-${formatBadgeValue(stats.prs)}-181717?style=for-the-badge&logo=github&logoColor=00F0FF)`
     );
     readme = readme.replace(
-        /!\[Issues\]\(https:\/\/img\.shields\.io\/badge\/🐛%20Issues-\d+%2B-181717[^)]*\)/,
-        `![Issues](https://img.shields.io/badge/🐛%20Issues-${stats.issues}%2B-181717?style=for-the-badge&logo=github&logoColor=00F0FF)`
+        /!\[Issues\]\(https:\/\/img\.shields\.io\/badge\/🐛%20Issues-[^)]+\)/,
+        `![Issues](https://img.shields.io/badge/🐛%20Issues-${formatBadgeValue(stats.issues)}-181717?style=for-the-badge&logo=github&logoColor=00F0FF)`
     );
     readme = readme.replace(
-        /!\[Commits\]\(https:\/\/img\.shields\.io\/badge\/📝%20Commits-\d+%2B-181717[^)]*\)/,
-        `![Commits](https://img.shields.io/badge/📝%20Commits-${stats.commits}%2B-181717?style=for-the-badge&logo=git&logoColor=00F0FF)`
+        /!\[Commits\]\(https:\/\/img\.shields\.io\/badge\/📝%20Commits-[^)]+\)/,
+        `![Commits](https://img.shields.io/badge/📝%20Commits-${formatBadgeValue(stats.commits)}-181717?style=for-the-badge&logo=git&logoColor=00F0FF)`
     );
 
     // Update Contribution Activity section
     readme = readme.replace(
-        /!\[Code Commits\]\(https:\/\/img\.shields\.io\/badge\/📝%20Code%20Commits-\d+%2B-181717[^)]*\)/,
-        `![Code Commits](https://img.shields.io/badge/📝%20Code%20Commits-${Math.floor(stats.commits * 0.8)}%2B-181717?style=for-the-badge&logo=git&logoColor=00F0FF)`
+        /!\[Code Commits\]\(https:\/\/img\.shields\.io\/badge\/📝%20Code%20Commits-[^)]+\)/,
+        `![Code Commits](https://img.shields.io/badge/📝%20Code%20Commits-${formatBadgeValue(Math.floor(stats.commits * 0.8))}-181717?style=for-the-badge&logo=git&logoColor=00F0FF)`
     );
     readme = readme.replace(
-        /!\[Pull Requests\]\(https:\/\/img\.shields\.io\/badge\/🔧%20Pull%20Requests-\d+%2B-181717[^)]*\)/,
-        `![Pull Requests](https://img.shields.io/badge/🔧%20Pull%20Requests-${stats.prs}%2B-181717?style=for-the-badge&logo=github&logoColor=00F0FF)`
+        /!\[Pull Requests\]\(https:\/\/img\.shields\.io\/badge\/🔧%20Pull%20Requests-[^)]+\)/,
+        `![Pull Requests](https://img.shields.io/badge/🔧%20Pull%20Requests-${formatBadgeValue(stats.prs)}-181717?style=for-the-badge&logo=github&logoColor=00F0FF)`
     );
     readme = readme.replace(
-        /!\[Issues Opened\]\(https:\/\/img\.shields\.io\/badge\/🐛%20Issues%20Opened-\d+%2B-181717[^)]*\)/,
-        `![Issues Opened](https://img.shields.io/badge/🐛%20Issues%20Opened-${stats.issues}%2B-181717?style=for-the-badge&logo=github&logoColor=00F0FF)`
+        /!\[Issues Opened\]\(https:\/\/img\.shields\.io\/badge\/🐛%20Issues%20Opened-[^)]+\)/,
+        `![Issues Opened](https://img.shields.io/badge/🐛%20Issues%20Opened-${formatBadgeValue(stats.issues)}-181717?style=for-the-badge&logo=github&logoColor=00F0FF)`
     );
     readme = readme.replace(
-        /!\[Code Reviews\]\(https:\/\/img\.shields\.io\/badge\/👁️%20Code%20Reviews-\d+%2B-181717[^)]*\)/,
-        `![Code Reviews](https://img.shields.io/badge/👁️%20Code%20Reviews-${Math.floor(stats.prs * 2)}%2B-181717?style=for-the-badge&logo=github&logoColor=00F0FF)`
+        /!\[Code Reviews\]\(https:\/\/img\.shields\.io\/badge\/👁️%20Code%20Reviews-[^)]+\)/,
+        `![Code Reviews](https://img.shields.io/badge/👁️%20Code%20Reviews-${formatBadgeValue(Math.floor(stats.prs * 2))}-181717?style=for-the-badge&logo=github&logoColor=00F0FF)`
     );
     readme = readme.replace(
-        /!\[Discussions\]\(https:\/\/img\.shields\.io\/badge\/💬%20Discussions-\d+%2B-181717[^)]*\)/,
-        `![Discussions](https://img.shields.io/badge/💬%20Discussions-${Math.floor(stats.issues * 0.5)}%2B-181717?style=for-the-badge&logo=github&logoColor=00F0FF)`
+        /!\[Discussions\]\(https:\/\/img\.shields\.io\/badge\/💬%20Discussions-[^)]+\)/,
+        `![Discussions](https://img.shields.io/badge/💬%20Discussions-${formatBadgeValue(Math.floor(stats.issues * 0.5))}-181717?style=for-the-badge&logo=github&logoColor=00F0FF)`
     );
 
     fs.writeFileSync(readmePath, readme, 'utf8');
