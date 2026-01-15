@@ -294,8 +294,8 @@ const sauravPandey = {
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-70%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=181717)
-![TypeScript](https://img.shields.io/badge/TypeScript-15%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-11%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=181717)
+![TypeScript](https://img.shields.io/badge/TypeScript-27%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-10%25-61DAFB?style=for-the-badge&logo=react&logoColor=181717)
 ![Node.js](https://img.shields.io/badge/Node.js-5%25-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
