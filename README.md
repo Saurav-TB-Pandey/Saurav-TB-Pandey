@@ -139,7 +139,7 @@ const sauravPandey = {
 - Collaborate with cross-functional teams including UI/UX designers, QA engineers, and product managers
 - Optimize database queries and API endpoints for improved performance and scalability
 - Implement security best practices including JWT authentication, data encryption, and role-based access control
-- Deploy and maintain applications on AWS cloud infrastructure (EC2, S3)
+- Deploy and maintain applications on AWS cloud infrastructure (EC2, S3, Textract, Lambda)
 - Conduct code reviews and mentor junior developers on best practices
 
 **Associate Software Developer - I** | *Sep 2024 – Jul 2025*
