@@ -31,7 +31,7 @@
 ```javascript
 const sauravPandey = {
   role: "Full Stack Developer",
-  experience: "2.5+ years",
+  experience: "3+ years",
   location: "Mohali, Punjab, India",
   specialization: [
     "MERN Stack", 
@@ -107,6 +107,8 @@ const sauravPandey = {
 ### **Cloud & DevOps**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Textract](https://img.shields.io/badge/AWS_Textract-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=amazon-lambda&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -129,7 +131,7 @@ const sauravPandey = {
 
 ### 🏢 **smartData Enterprises** | Mohali, Punjab
 
-**Associate Software Developer - II** | *Sep 2024 – Present*
+**Associate Software Developer - II** | *Aug 2025 – Present*
 
 - Lead end-to-end development of scalable web systems using MERN stack architecture
 - Design and implement secure, modular RESTful APIs with comprehensive validation using Joi and Yup
@@ -140,7 +142,7 @@ const sauravPandey = {
 - Deploy and maintain applications on AWS cloud infrastructure (EC2, S3)
 - Conduct code reviews and mentor junior developers on best practices
 
-**Associate Software Developer - I** | *Sep 2024 – Aug 2024*
+**Associate Software Developer - I** | *Sep 2024 – Jul 2025*
 
 - Developed and maintained full-stack web applications using React.js, Node.js, and Express.js
 - Created responsive UI components using Material UI, Bootstrap, and custom CSS
@@ -174,7 +176,7 @@ const sauravPandey = {
 ## 🚀 Featured Projects
 
 ### 👴 **Continuity Connect** | Healthcare - Care Provider & Aged Care Management Platform
-**Role:** Full Stack Developer | *Sep 2024 – Present*
+**Role:** Full Stack Developer | *Sep 2025 – Present*
 
 > Unified digital platform supporting employee, contractor, and partnership-based care providers, enabling coordinated care delivery across organizations. Streamlines aged care services and home care packages with integrated care planning, documentation, compliance, scheduling, and collaboration tools.
 
@@ -186,12 +188,12 @@ const sauravPandey = {
 - Collaborated with team of 8-12 developers in agile environment, participating in sprint planning and daily stand-ups
 - Implemented proper error handling and logging for all microservices
 
-**Tech Stack:** `React.js` `Node.js` `Express.js` `PostgreSQL` `Prisma ORM` `TypeScript` `Tailwind CSS`
+**Tech Stack:** `React.js` `Node.js` `Express.js` `PostgreSQL` `Prisma ORM` `TypeScript` `Tailwind CSS` `Stripe` `Xero` `Telnyx` `LiveKit` `WebSockets` `Google Maps` `PRODA` `AWS (S3, Textract, Lambda, EC2)`
 
 ---
 
 ### 🏥 **Family Health Hub** | Healthcare Platform
-**Role:** Full Stack Developer | *Jun 2024 – Aug 2024*
+**Role:** Full Stack Developer | *Jun 2025 – Aug 2025*
 
 > HIPAA-compliant web-based healthcare platform designed to streamline appointment booking, role-based access control, and management of patients, healthcare professionals, and services.
 
