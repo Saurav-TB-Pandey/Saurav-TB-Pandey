@@ -84,6 +84,7 @@ async function fetchGitHubStats() {
         });
 
         return {
+            followers: user.followers,
             repos: repos.length,
             stars: totalStars,
             forks: totalForks,
@@ -96,6 +97,7 @@ async function fetchGitHubStats() {
         console.error('Error fetching GitHub stats:', error);
         // Return default values if API fails
         return {
+            followers: 0,
             repos: 15,
             stars: 50,
             forks: 20,
@@ -117,6 +119,16 @@ async function updateREADME() {
         if (num === 0) return '0';
         return `${num}%2B`;
     };
+
+    // Header badges (static shields.io — avoids shared token pool errors)
+    readme = readme.replace(
+        /https:\/\/img\.shields\.io\/badge\/Followers-\d+-0e75b6/,
+        `https://img.shields.io/badge/Followers-${stats.followers}-0e75b6`
+    );
+    readme = readme.replace(
+        /https:\/\/img\.shields\.io\/badge\/Stars-\d+-0e75b6/,
+        `https://img.shields.io/badge/Stars-${stats.stars}-0e75b6`
+    );
 
     // Update Repository Stats (matching URL-encoded format with %2B)
     readme = readme.replace(

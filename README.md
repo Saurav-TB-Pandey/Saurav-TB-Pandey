@@ -8,8 +8,8 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Saurav-TB-Pandey&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Saurav-TB-Pandey?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/Saurav-TB-Pandey?label=Stars&style=for-the-badge&color=0e75b6" alt="GitHub Stars" />
+  <img src="https://img.shields.io/badge/Followers-0-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Stars-0-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stars" />
 </div>
 
 <br/>
