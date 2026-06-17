@@ -1,6 +1,7 @@
 {
   "name": "github-stats-updater",
   "version": "1.0.0",
+  "author":"Saurav_TB_Pandey",
   "description": "Automated GitHub stats updater for README",
   "main": ".github/scripts/update-stats.js",
   "scripts": {

@@ -84,19 +84,19 @@ const sauravPandey = {
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Material UI](.github/assets/mui-badge.svg)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](.github/assets/css3-badge.svg)
 
 ### **Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=rest&logoColor=white)
-![MuleSoft](https://img.shields.io/badge/MuleSoft-00A0DF?style=for-the-badge&logo=mulesoft&logoColor=white)
+![REST API](.github/assets/rest-api-badge.svg)
+[![MuleSoft](.github/assets/mulesoft-badge.svg)](https://www.mulesoft.com/)
 
 ### **Databases**
 
@@ -106,9 +106,7 @@ const sauravPandey = {
 
 ### **Cloud & DevOps**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS Textract](https://img.shields.io/badge/AWS_Textract-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=amazon-lambda&logoColor=white)
+![AWS](.github/assets/aws-badge.svg)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -118,10 +116,12 @@ const sauravPandey = {
 
 ### **Tools**
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+[![Postman](.github/assets/postman-badge.svg)](https://www.postman.com/)
+[![Jira](.github/assets/jira-badge.svg)](https://www.atlassian.com/software/jira)
+[![VS Code](.github/assets/vscode-badge.svg)](https://code.visualstudio.com/)
+[![Cursor](.github/assets/cursor-badge.svg)](https://cursor.com/)
+[![Claude Code](.github/assets/claude-code-badge.svg)](https://claude.ai/)
+[![Google Antigravity](.github/assets/google-antigravity-badge.svg)](https://antigravity.google/)
 
 </div>
 
@@ -129,9 +129,9 @@ const sauravPandey = {
 
 ## 💼 Professional Experience
 
-### 🏢 **smartData Enterprises** | Mohali, Punjab
+### 🏢 [**smartData Enterprises**](https://www.smartdatainc.com/) | Mohali, Punjab
 
-**Associate Software Developer - II** | *Aug 2025 – Present*
+**Associate Software Developer - II** | *Aug 2025 – Jun 2026*
 
 - Lead end-to-end development of scalable web systems using MERN stack architecture
 - Design and implement secure, modular RESTful APIs with comprehensive validation using Joi and Yup
@@ -160,7 +160,7 @@ const sauravPandey = {
 - Assisted in debugging and fixing production issues
 - Documented code and technical specifications
 
-### 🏢 **Caelius Consulting** | Mohali, Punjab
+### 🏢 [**Caelius Consulting**](https://www.caeliusconsulting.com/) | Mohali, Punjab
 
 **Technical Associate** | *Feb 2023 – Aug 2023*
 
@@ -327,28 +327,22 @@ const sauravPandey = {
 <tr>
 <td align="center" width="33%">
   
-**🌟 Stars**
 ![Stars Achievement](https://img.shields.io/badge/⭐%20Stars-7%2B-FFD700?style=for-the-badge&logo=star&logoColor=181717)
 
-**🍴 Forks**
 ![Forks Achievement](https://img.shields.io/badge/🍴%20Forks-0-181717?style=for-the-badge&logo=git&logoColor=00F0FF)
 
 </td>
 <td align="center" width="33%">
   
-**💬 Discussions**
 ![Discussions](https://img.shields.io/badge/💬%20Discussions-0-181717?style=for-the-badge&logo=github&logoColor=00F0FF)
 
-**🔧 Pull Requests**
 ![Pull Requests](https://img.shields.io/badge/🔧%20PRs-0-181717?style=for-the-badge&logo=github&logoColor=00F0FF)
 
 </td>
 <td align="center" width="33%">
   
-**🐛 Issues**
 ![Issues](https://img.shields.io/badge/🐛%20Issues-30%2B-181717?style=for-the-badge&logo=github&logoColor=00F0FF)
 
-**📝 Commits**
 ![Commits](https://img.shields.io/badge/📝%20Commits-1000%2B-181717?style=for-the-badge&logo=git&logoColor=00F0FF)
 
 </td>
@@ -469,8 +463,8 @@ Mon Tue Wed Thu Fri Sat Sun
 
 <div align="center">
   
-![MuleSoft](https://img.shields.io/badge/MuleSoft_Certified_Integration_Associate-00A0DF?style=for-the-badge&logo=mulesoft&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL_Certified-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
+[![MuleSoft Certified Integration Associate](.github/assets/mulesoft-cert-badge.svg)](https://www.mulesoft.com/)
+![SQL](.github/assets/hackerrank-sql-cert-badge.svg)
 
 </div>
 
@@ -481,7 +475,8 @@ Mon Tue Wed Thu Fri Sat Sun
 <div align="center">
   
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/pandeyji9570)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/pandeyji0495)
+[![HackerRank](.github/assets/hackerrank-badge.svg)](https://www.hackerrank.com/pandeyji0495)
+[![LeetCode](.github/assets/leetcode-badge.svg)](https://leetcode.com/u/Saurav_TB_Pandey/)
 
 </div>
 
@@ -492,12 +487,12 @@ Mon Tue Wed Thu Fri Sat Sun
 <div align="center">
   
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pandeysaurav878@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pandeysaurav)
+[![LinkedIn](.github/assets/linkedin-badge.svg)](https://linkedin.com/in/pandeysaurav)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saurav-TB-Pandey)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/saurav_tb_pandey)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/pandeyji9570)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pandeyji9570)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@hiddenguruji)
+[![Twitter](.github/assets/twitter-badge.svg)](https://twitter.com/pandeyji9570)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@tamanna_kiski_kroge)
 
 </div>
 
