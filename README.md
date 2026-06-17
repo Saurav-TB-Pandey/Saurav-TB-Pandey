@@ -8,8 +8,8 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Saurav-TB-Pandey&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Followers-0-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Stars-0-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stars" />
+  <img src="https://img.shields.io/badge/Followers-8-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Stars-7-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stars" />
 </div>
 
 <br/>
@@ -544,4 +544,4 @@ Mon Tue Wed Thu Fri Sat Sun
 
 </div>
 
-<!-- stats-last-updated: 2026-06-17T06:53:07.830Z -->
+<!-- stats-last-updated: 2026-06-17T06:56:42.739Z -->
