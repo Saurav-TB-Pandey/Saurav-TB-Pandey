@@ -245,9 +245,34 @@ async function updateREADME() {
         `![Discussions](https://img.shields.io/badge/💬%20Discussions-${formatBadgeValue(Math.floor(stats.issues * 0.5))}-181717?style=for-the-badge&logo=github&logoColor=00F0FF)`
     );
 
+    readme = updateStatsTimestamp(readme);
+
     fs.writeFileSync(readmePath, readme, 'utf8');
+
+    const lastRun = {
+        updatedAt: new Date().toISOString(),
+        timezone: 'UTC',
+        stats,
+    };
+    fs.writeFileSync(
+        path.join(process.cwd(), '.github/stats-last-run.json'),
+        `${JSON.stringify(lastRun, null, 2)}\n`,
+        'utf8'
+    );
+
     console.log('✅ README updated successfully!');
     console.log('📊 Stats:', stats);
+}
+
+function updateStatsTimestamp(readme) {
+    const timestamp = new Date().toISOString();
+    const marker = /<!-- stats-last-updated: .*? -->/;
+
+    if (marker.test(readme)) {
+        return readme.replace(marker, `<!-- stats-last-updated: ${timestamp} -->`);
+    }
+
+    return `${readme.trimEnd()}\n\n<!-- stats-last-updated: ${timestamp} -->\n`;
 }
 
 updateREADME();

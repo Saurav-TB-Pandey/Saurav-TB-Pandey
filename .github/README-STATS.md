@@ -6,6 +6,7 @@ This repository uses GitHub Actions to automatically update GitHub statistics in
 
 1. **GitHub Actions Workflow** (`.github/workflows/update-stats.yml`)
    - Runs daily at 00:00 UTC
+   - Commits every run (even when stats are unchanged) to keep the profile repo active
    - Can be manually triggered from the Actions tab
    - Automatically commits updates to the README
 
