@@ -1,8 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="384.0" height="28" role="img" aria-label="MuleSoft">
-  <title>MuleSoft</title>
-  <g shape-rendering="crispEdges"><rect width="384.0" height="28" fill="#00A0DF"/></g>
+<svg xmlns="http://www.w3.org/2000/svg" width="75.0" height="28" role="img" aria-label="MuleSoft Certified Integration Associate">
+  <title>MuleSoft Certified Integration Associate</title>
+  <g shape-rendering="crispEdges">
+    <rect width="75.0" height="28" fill="#00A0DF"/>
+  </g>
   <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100">
-    <svg x="9" y="7" width="14" height="14" viewBox="8 22 24 24" aria-hidden="true"><path d="M17.443 37.454c-2.517-1.182-4.264-3.853-4.264-6.946 0-1.634.483-3.144 1.315-4.377l5.487 8.18h3.32l5.487-8.18c.832 1.233 1.315 2.754 1.315 4.377 0 2.887-1.52 5.394-3.76 6.69l1.058 4.048c4.028-2.075 6.77-6.268 6.77-11.107 0-4.572-2.456-8.56-6.113-10.737l-6.37 9.833-6.31-9.874c-3.7 2.168-6.185 6.185-6.185 10.778 0 5.014 2.95 9.34 7.213 11.323z" fill="#FFFFFF"/></svg>
-    <text transform="scale(.1)" x="2020.0" y="175" textLength="3400.0" font-weight="bold">MULESOFT CERTIFIED INTEGRATION ASSOCIATE</text>
+    <svg x="9" y="7" width="14" height="14" viewBox="8 22 24 24" aria-hidden="true">
+      <path d="M17.443 37.454c-2.517-1.182-4.264-3.853-4.264-6.946 0-1.634.483-3.144 1.315-4.377l5.487 8.18h3.32l5.487-8.18c.832 1.233 1.315 2.754 1.315 4.377 0 2.887-1.52 5.394-3.76 6.69l1.058 4.048c4.028-2.075 6.77-6.268 6.77-11.107 0-4.572-2.456-8.56-6.113-10.737l-6.37 9.833-6.31-9.874c-3.7 2.168-6.185 6.185-6.185 10.778 0 5.014 2.95 9.34 7.213 11.323z" fill="#FFFFFF"/>
+    </svg>
+    <text transform="scale(.1)" x="475.0" y="175" textLength="310.0" font-weight="bold">MCIA</text>
   </g>
 </svg>

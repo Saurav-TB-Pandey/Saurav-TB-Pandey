@@ -1,8 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="210.0" height="28" role="img" aria-label="Sql Certified Hackerrank">
-  <title>Sql Certified Hackerrank</title>
-  <g shape-rendering="crispEdges"><rect width="210.0" height="28" fill="#2EC866"/></g>
+<svg xmlns="http://www.w3.org/2000/svg" width="70.0" height="28" role="img" aria-label="SQL Certified HackerRank">
+  <title>SQL Certified HackerRank</title>
+  <g shape-rendering="crispEdges">
+    <rect width="70.0" height="28" fill="#2EC866"/>
+  </g>
   <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100">
-    <image x="9" y="7" width="14" height="14" href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPlNxbCBDZXJ0aWZpZWQgSGFja2VycmFuazwvdGl0bGU+PHBhdGggZD0iTTAgMHYyNGgyNFYwem05Ljk1IDguMDAyaDEuODA1Yy4wNjEgMCAuMTExLjA1LjExMS4xMTF2Ny43NjdjMCAuMDYxLS4wNS4xMTEtLjExLjExMUg5Ljk1Yy0uMDYxIDAtLjExMS0uMDUtLjExMS0uMTF2LTIuODdINy44OTR2Mi44N2MwIC4wNi0uMDUuMTEtLjExLjExSDUuOTc2YS4xMS4xMSAwIDAxLS4xMS0uMTFWOC4xMTJjMC0uMDYuMDUtLjExLjExLS4xMWgxLjgwNmMuMDYxIDAgLjExLjA1LjExLjExdjIuODY5SDkuODR2LTIuODdjMC0uMDYuMDUtLjExLjExLS4xMXptMi45OTkgMGg1Ljc3OGMuMDYxIDAgLjExMS4wNS4xMTEuMTF2Ny43NjdhLjExLjExIDAgMDEtLjExLjExMmgtNS43OGEuMTEuMTEgMCAwMS0uMTEtLjExVjguMTExYzAtLjA2LjA1LS4xMS4xMS0uMTF6Ii8+PC9zdmc+"/>
-    <text transform="scale(.1)" x="1115.0" y="175" textLength="1590.0" font-weight="bold">SQL CERTIFIED HACKERRANK</text>
+    <image x="9" y="7" width="14" height="14" href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPlNxbDwvdGl0bGU+PHBhdGggZD0iTTAgMHYyNGgyNFYwem05Ljk1IDguMDAyaDEuODA1Yy4wNjEgMCAuMTExLjA1LjExMS4xMTF2Ny43NjdjMCAuMDYxLS4wNS4xMTEtLjExLjExMUg5Ljk1Yy0uMDYxIDAtLjExMS0uMDUtLjExMS0uMTF2LTIuODdINy44OTR2Mi44N2MwIC4wNi0uMDUuMTEtLjExLjExSDUuOTc2YS4xMS4xMSAwIDAxLS4xMS0uMTFWOC4xMTJjMC0uMDYuMDUtLjExLjExLS4xMWgxLjgwNmMuMDYxIDAgLjExLjA1LjExLjExdjIuODY5SDkuODR2LTIuODdjMC0uMDYuMDUtLjExLjExLS4xMXptMi45OTkgMGg1Ljc3OGMuMDYxIDAgLjExMS4wNS4xMTEuMTF2Ny43NjdhLjExLjExIDAgMDEtLjExLjExMmgtNS43OGEuMTEuMTEgMCAwMS0uMTEtLjExVjguMTExYzAtLjA2LjA1LS4xMS4xMS0uMTF6Ii8+PC9zdmc+"/>
+    <text transform="scale(.1)" x="430.0" y="175" textLength="230.0" font-weight="bold">SQL</text>
   </g>
 </svg>

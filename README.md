@@ -463,8 +463,8 @@ Mon Tue Wed Thu Fri Sat Sun
 
 <div align="center">
   
-[![MuleSoft Certified Integration Associate](.github/assets/mulesoft-cert-badge.svg)](https://www.mulesoft.com/)
-![SQL](.github/assets/hackerrank-sql-cert-badge.svg)
+[![MCIA](.github/assets/mulesoft-cert-badge.svg)](https://www.mulesoft.com/ "MuleSoft Certified Integration Associate")
+[![SQL](.github/assets/hackerrank-sql-cert-badge.svg)](https://www.hackerrank.com/pandeyji0495 "SQL Certified HackerRank")
 
 </div>
 
