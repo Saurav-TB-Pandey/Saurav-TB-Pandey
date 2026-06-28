@@ -129,7 +129,7 @@ const sauravPandey = {
 
 ## 💼 Professional Experience
 
-### 🏢 **SoftSensor AI** | [**Website**](https://www.softsensor.ai/) | Jaipur, Rajasthan
+### 🏢 [**SoftSensor AI**](https://www.softsensor.ai/) | Jaipur, Rajasthan
 **Senior Software Engineer L1** | *Jun 2026 – Present*
 
 - Spearheaded optimizations of company products, enhancing performance and efficiency through effective code improvements.
