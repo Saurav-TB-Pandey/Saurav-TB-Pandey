@@ -32,7 +32,7 @@
 const sauravPandey = {
   role: "Full Stack Developer",
   experience: "3+ years",
-  location: "Mohali, Punjab, India",
+  location: "Jaipur, Rajasthan, India",
   specialization: [
     "MERN Stack", 
     "Microservices Architecture", 
@@ -41,8 +41,8 @@ const sauravPandey = {
     "PostgreSQL",
     "TypeScript"
   ],
-  currentCompany: "smartData Enterprises",
-  position: "Associate Software Developer - II",
+  currentCompany: "SoftSensor AI",
+  position: "Senior Software Engineer L1",
   availability: "Open to relocation and remote work",
   passion: "Building scalable applications"
 };
@@ -129,6 +129,16 @@ const sauravPandey = {
 
 ## 💼 Professional Experience
 
+### 🏢 **SoftSensor AI** | [**Website**](https://www.softsensor.ai/) | Jaipur, Rajasthan
+**Senior Software Engineer L1** | *Jun 2026 – Present*
+
+- Spearheaded optimizations of company products, enhancing performance and efficiency through effective code improvements.
+- Developed and implemented new features and functionalities, significantly elevating user experience and product value.
+- Deployed applications on AWS using CI/CD practices, ensuring smooth and reliable releases through automated processes.
+- Utilized Docker for containerization, facilitating easier deployment and scalability of microservices-based solutions.
+- Leveraged multiple databases including PostgreSQL, MongoDB, and MySQL for efficient data management and retrieval.
+- Collaborated within a MERN stack environment, employing React.js and Node.js to deliver dynamic and responsive web applications.
+
 ### 🏢 [**smartData Enterprises**](https://www.smartdatainc.com/) | Mohali, Punjab
 
 **Associate Software Developer - II** | *Aug 2025 – Jun 2026*
@@ -176,7 +186,7 @@ const sauravPandey = {
 ## 🚀 Featured Projects
 
 ### 👴 **Continuity Connect** | Healthcare - Care Provider & Aged Care Management Platform
-**Role:** Full Stack Developer | *Sep 2025 – Present*
+**Role:** Full Stack Developer | *Sep 2025 – Jun 2026*
 
 > Unified digital platform supporting employee, contractor, and partnership-based care providers, enabling coordinated care delivery across organizations. Streamlines aged care services and home care packages with integrated care planning, documentation, compliance, scheduling, and collaboration tools.
 
@@ -516,7 +526,8 @@ Mon Tue Wed Thu Fri Sat Sun
 |:---:|:---|
 | 📧 **Email** | [pandeysaurav878@gmail.com](mailto:pandeysaurav878@gmail.com) |
 | 📱 **Phone** | +91 95708 23816 |
-| 📍 **Location** | Mohali, Punjab, India |
+| 📍 **Location** | Jaipur, Rajasthan, India |
+| 🌐 **Portfolio** | [saurav-tb-pandey.vercel.app](https://saurav-tb-pandey.vercel.app/) |
 | 🌍 **Languages** | English (Fluent), Hindi (Fluent) |
 | 💼 **Availability** | Open to relocation and remote work |
 
