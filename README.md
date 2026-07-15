@@ -9,7 +9,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Saurav-TB-Pandey&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Followers-7-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Stars-7-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stars" />
+  <img src="https://img.shields.io/badge/Stars-8-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stars" />
 </div>
 
 <br/>
@@ -284,7 +284,7 @@ const sauravPandey = {
 **📈 Repository Stats**
 
 ![Repositories](https://img.shields.io/badge/📦%20Repositories-15%2B-181717?style=for-the-badge&logo=github&logoColor=00F0FF)
-![Stars](https://img.shields.io/badge/⭐%20Stars-7%2B-FFD700?style=for-the-badge&logo=star&logoColor=181717)
+![Stars](https://img.shields.io/badge/⭐%20Stars-8%2B-FFD700?style=for-the-badge&logo=star&logoColor=181717)
 ![Forks](https://img.shields.io/badge/🍴%20Forks-0-181717?style=for-the-badge&logo=git&logoColor=00F0FF)
 ![Contributions](https://img.shields.io/badge/💻%20Contributions-112%2B-181717?style=for-the-badge&logo=github&logoColor=00F0FF)
 
@@ -337,7 +337,7 @@ const sauravPandey = {
 <tr>
 <td align="center" width="33%">
   
-![Stars Achievement](https://img.shields.io/badge/⭐%20Stars-7%2B-FFD700?style=for-the-badge&logo=star&logoColor=181717)
+![Stars Achievement](https://img.shields.io/badge/⭐%20Stars-8%2B-FFD700?style=for-the-badge&logo=star&logoColor=181717)
 
 ![Forks Achievement](https://img.shields.io/badge/🍴%20Forks-0-181717?style=for-the-badge&logo=git&logoColor=00F0FF)
 
@@ -379,7 +379,7 @@ const sauravPandey = {
 ║  🚀 GitHub Activity Summary            ║
 ╠═════════════════════════════════════════╣
 ║  📦 Repositories:     15+               ║
-║  ⭐ Stars Received:    7+               ║
+║  ⭐ Stars Received:    8+               ║
 ║  🍴 Forks:             0               ║
 ║  💬 Discussions:       Active           ║
 ║  🔧 Pull Requests:     0               ║
@@ -555,4 +555,4 @@ Mon Tue Wed Thu Fri Sat Sun
 
 </div>
 
-<!-- stats-last-updated: 2026-07-14T02:34:16.857Z -->
+<!-- stats-last-updated: 2026-07-15T02:33:03.491Z -->
