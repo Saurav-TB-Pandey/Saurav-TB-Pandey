@@ -496,7 +496,7 @@ Mon Tue Wed Thu Fri Sat Sun
 
 <div align="center">
   
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pandeysaurav878@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sauravtbpandey@gmail.com)
 [![LinkedIn](.github/assets/linkedin-badge.svg)](https://linkedin.com/in/pandeysaurav)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saurav-TB-Pandey)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/saurav_tb_pandey)
@@ -524,8 +524,8 @@ Mon Tue Wed Thu Fri Sat Sun
 
 | | |
 |:---:|:---|
-| 📧 **Email** | [pandeysaurav878@gmail.com](mailto:pandeysaurav878@gmail.com) |
-| 📱 **Phone** | +91 95708 23816 |
+| 📧 **Email** | [sauravtbpandey@gmail.com](mailto:sauravtbpandey@gmail.com) |
+| 📱 **Phone** | +91 88515 39180 |
 | 📍 **Location** | Jaipur, Rajasthan, India |
 | 🌐 **Portfolio** | [saurav-tb-pandey.vercel.app](https://saurav-tb-pandey.vercel.app/) |
 | 🌍 **Languages** | English (Fluent), Hindi (Fluent) |
