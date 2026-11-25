@@ -1,7 +1,3 @@
-<!-- Generated file. Do not edit by hand. -->
-
-<br/>
-
 <p align="center">
   <img src="assets/hero.svg" width="100%" alt="Saurav Pandey, Full Stack Developer. MERN stack, microservices and AWS. 3+ years shipping healthcare, automotive and enterprise apps. Currently at SoftSensor AI. Based in Jaipur, India Open to remote." />
 </p>
