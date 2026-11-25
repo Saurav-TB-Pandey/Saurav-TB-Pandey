@@ -1,1 +1,3 @@
 node_modules/
+.github/design/fonts/
+__pycache__/
