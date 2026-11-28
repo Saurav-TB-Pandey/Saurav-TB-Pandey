@@ -39,7 +39,7 @@
 </picture>
 
 <p align="center">
-  <img src="assets/stack.svg" width="100%" alt="Languages: JavaScript, TypeScript, ReScript, SQL. Frontend: React, Redux, Material UI, Tailwind CSS, Bootstrap, HTML5, CSS3, WebRTC. Backend: Node.js, Express.js, WebSocket, RabbitMQ, REST APIs, MuleSoft. Databases: MongoDB, PostgreSQL, MySQL, Redis. Cloud &amp; DevOps: AWS, Docker, Jenkins, Git, GitHub, GitHub Actions, CI/CD. Tools: Postman, Jira, VS Code, Google Antigravity. AI Coding Agents: Claude Code, Codex, Cursor, GitHub Copilot." />
+  <img src="assets/stack.svg" width="100%" alt="Languages: JavaScript, TypeScript, SQL. Frontend: React, Redux, Material UI, Tailwind CSS, Bootstrap, HTML5, CSS3. Backend: Node.js, Express.js, WebSocket, REST APIs, MuleSoft. Databases: MongoDB, PostgreSQL, MySQL. Cloud &amp; DevOps: AWS, Docker, Jenkins, Git, GitHub, GitHub Actions, CI/CD. Tools: Postman, Jira, VS Code, Cursor, Claude Code, Google Antigravity." />
 </p>
 
 <br/>
