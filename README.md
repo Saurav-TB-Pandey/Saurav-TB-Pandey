@@ -134,8 +134,27 @@
 </picture>
 
 <p align="center">
-  <img src="assets/projects.svg" width="100%" alt="Projects: Continuity Connect (Healthcare · Aged care): One platform for care providers to plan care, document, schedule and stay compliant across organisations. Family Health Hub (Healthcare): HIPAA-compliant appointment booking and management for patients, professionals and services. AiVisor (Automotive): Vehicle service scheduling for car dealerships: book, update and cancel through Xtime. SafeSphere (QHSE management): Safety and compliance reporting for oil &amp; gas, construction and manufacturing. IHG (Hospitality): Scalable MuleSoft APIs for InterContinental Hotels Group." />
+  <img src="assets/projects.svg" width="100%" alt="Projects: Fleet Scheduler (Logistics · SaaS): Multi-tenant SaaS for last-mile delivery companies to schedule drivers across stations and reach them by SMS, email, chat and voice. Continuity Connect (Healthcare · Aged care): One platform for care providers to plan care, document, schedule and stay compliant across organisations. Family Health Hub (Healthcare): HIPAA-compliant appointment booking and management for patients, professionals and services. AiVisor (Automotive): Vehicle service scheduling for car dealerships: book, update and cancel through Xtime. SafeSphere (QHSE management): Safety and compliance reporting for oil &amp; gas, construction and manufacturing. IHG (Hospitality): Scalable MuleSoft APIs for InterContinental Hotels Group." />
 </p>
+
+<details>
+<summary><b>Fleet Scheduler</b> · Multi-tenant driver scheduling SaaS for LMDmax</summary>
+<br/>
+
+> A production, multi-tenant platform for last-mile Delivery Service Partners that replaces spreadsheets and manual texting. Station managers build and publish weekly shift schedules across stations, enforce work-hour compliance and time-off rules, and reach drivers through SMS, email, in-app chat and voice calls, while drivers respond from the LMD Drive mobile app. Live at [scheduler.lmdmax.com](https://scheduler.lmdmax.com/).
+
+- Develop and maintain features end to end across the React, TypeScript and ReScript web app and the Node.js/Express scheduler microservice
+- Build and maintain core scheduling modules: weekly shift planning, recurring shifts, work-hour compliance, time-off and availability requests, and driver and admin management
+- Build real-time communication between station managers and drivers, including chat, broadcast messaging and in-browser voice calling over WebRTC and MQTT
+- Design and maintain the driver notification system, using Redis/Bull job queues to deliver shift, reminder and time-off messages by SMS (Twilio), email (AWS SES) and in-app channels
+- Work on event-driven communication between microservices with RabbitMQ, and on structured logging and request tracing across services
+- Secure the multi-tenant platform with tenant isolation, role-based access control and signed links
+- Optimize database queries and API performance across PostgreSQL, MongoDB and Redis
+- Maintain code quality with unit and integration tests, CI coverage gates and SonarQube
+
+**Tech:** `React.js` `TypeScript` `ReScript` `Node.js` `Express.js` `PostgreSQL` `MongoDB` `Redis` `Bull` `RabbitMQ` `MQTT` `WebRTC` `Twilio` `AWS (S3, SES)` `Docker` `Kubernetes` `Jest` `Playwright` `SonarQube`
+
+</details>
 
 <details>
 <summary><b>Continuity Connect</b> · Care provider &amp; aged care management platform</summary>
