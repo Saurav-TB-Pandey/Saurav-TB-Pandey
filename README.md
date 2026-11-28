@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Saurav Pandey, Full Stack Developer. MERN stack, microservices and AWS. 3+ years shipping healthcare, automotive and enterprise apps. Currently at SoftSensor AI. Based in Jaipur, India Open to remote." />
+  <img src="assets/hero-9c7ac12a.svg" width="100%" alt="Saurav Pandey, Full Stack Developer. MERN stack, microservices and AWS. 3+ years shipping healthcare, automotive and enterprise apps. Currently at SoftSensor AI. Based in Jaipur, India Open to remote." />
 </p>
 
 <p align="center">
-  <a href="https://saurav-tb-pandey.vercel.app/"><img src="assets/btn-portfolio-paper.svg" height="60" alt="Visit my Portfolio" /></a>
-  <a href="https://linkedin.com/in/pandeysaurav"><img src="assets/btn-linkedin-sky.svg" height="60" alt="Connect on LinkedIn" /></a>
-  <a href="mailto:sauravtbpandey@gmail.com"><img src="assets/btn-email-mint.svg" height="60" alt="Say hi by Email" /></a>
+  <a href="https://saurav-tb-pandey.vercel.app/"><img src="assets/btn-portfolio-paper-77f00bde.svg" height="60" alt="Visit my Portfolio" /></a>
+  <a href="https://linkedin.com/in/pandeysaurav"><img src="assets/btn-linkedin-sky-14419aaf.svg" height="60" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:sauravtbpandey@gmail.com"><img src="assets/btn-email-mint-11c518b3.svg" height="60" alt="Say hi by Email" /></a>
 </p>
 
 <p align="center">
@@ -15,8 +15,8 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/title-about-dark.svg" />
-  <img src="assets/title-about.svg" width="100%" alt="A little about me" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/title-about-dark-57e613b1.svg" />
+  <img src="assets/title-about-f7c96499.svg" width="100%" alt="A little about me" />
 </picture>
 
 <p align="center">
@@ -24,32 +24,32 @@
 </p>
 
 <p align="center">
-  <img src="assets/about-notes.svg" width="100%" alt="I build: End-to-end MERN apps, microservices and clean APIs, real-time WebSocket features, and databases tuned for speed. I care about: Security built in from day one: JWT, encryption, role-based access, and HIPAA-compliant handling of health data. I’ve worked in: Healthcare · Automotive · Enterprise · QHSE management · Aged care &amp; NDIS · Hospitality" />
+  <img src="assets/about-notes-98a60bea.svg" width="100%" alt="I build: End-to-end MERN apps, microservices and clean APIs, real-time WebSocket features, and databases tuned for speed. I care about: Security built in from day one: JWT, encryption, role-based access, and HIPAA-compliant handling of health data. I’ve worked in: Healthcare · Automotive · Enterprise · QHSE management · Aged care &amp; NDIS · Hospitality" />
 </p>
 
 <p align="center">
-  <img src="assets/about-now.svg" width="100%" alt="Senior Software Engineer L1 at SoftSensor AI. 3+ years building scalable, secure web apps end to end, from architecture to AWS deployment. Open to relocation and remote work." />
+  <img src="assets/about-now-deb433d9.svg" width="100%" alt="Senior Software Engineer L1 at SoftSensor AI. 3+ years building scalable, secure web apps end to end, from architecture to AWS deployment. Open to relocation and remote work." />
 </p>
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/title-stack-dark.svg" />
-  <img src="assets/title-stack.svg" width="100%" alt="Tech I work with" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/title-stack-dark-523e8d72.svg" />
+  <img src="assets/title-stack-914ce535.svg" width="100%" alt="Tech I work with" />
 </picture>
 
 <p align="center">
-  <img src="assets/stack.svg" width="100%" alt="Languages: JavaScript, TypeScript, SQL. Frontend: React, Redux, Material UI, Tailwind CSS, Bootstrap, HTML5, CSS3. Backend: Node.js, Express.js, WebSocket, REST APIs, MuleSoft. Databases: MongoDB, PostgreSQL, MySQL. Cloud &amp; DevOps: AWS, Docker, Jenkins, Git, GitHub, GitHub Actions, CI/CD. Tools: Postman, Jira, VS Code, Cursor, Claude Code, Google Antigravity." />
+  <img src="assets/stack-b5f2a09f.svg" width="100%" alt="Languages: JavaScript, TypeScript, ReScript, SQL. Frontend: React, Redux, Material UI, Tailwind CSS, Bootstrap, HTML5, CSS3, WebRTC. Backend: Node.js, Express.js, WebSocket, RabbitMQ, REST APIs, MuleSoft. Databases: MongoDB, PostgreSQL, MySQL, Redis. Cloud &amp; DevOps: AWS, Docker, Jenkins, Git, GitHub, GitHub Actions, CI/CD. Tools: Postman, Jira, VS Code, Google Antigravity. AI Coding Agents: Claude Code, Codex, Cursor, GitHub Copilot." />
 </p>
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/title-experience-dark.svg" />
-  <img src="assets/title-experience.svg" width="100%" alt="Where I’ve worked" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/title-experience-dark-00883859.svg" />
+  <img src="assets/title-experience-e801e028.svg" width="100%" alt="Where I’ve worked" />
 </picture>
 
-<a href="https://www.softsensor.ai/"><img src="assets/experience-1.svg" width="100%" alt="SoftSensor AI, Jaipur, Rajasthan. Senior Software Engineer L1, Jun 2026 – Present." /></a>
+<a href="https://www.softsensor.ai/"><img src="assets/experience-1-75db1c8c.svg" width="100%" alt="SoftSensor AI, Jaipur, Rajasthan. Senior Software Engineer L1, Jun 2026 – Present." /></a>
 
 <br/>
 
@@ -68,7 +68,7 @@
 
 <br/>
 
-<a href="https://www.smartdatainc.com/"><img src="assets/experience-2.svg" width="100%" alt="smartData Enterprises, Mohali, Punjab. Associate Software Developer II, Aug 2025 – Jun 2026. Associate Software Developer I, Sep 2024 – Jul 2025. Associate Software Developer Intern, Oct 2023 – Aug 2024." /></a>
+<a href="https://www.smartdatainc.com/"><img src="assets/experience-2-c5c93f4b.svg" width="100%" alt="smartData Enterprises, Mohali, Punjab. Associate Software Developer II, Aug 2025 – Jun 2026. Associate Software Developer I, Sep 2024 – Jul 2025. Associate Software Developer Intern, Oct 2023 – Aug 2024." /></a>
 
 <br/>
 
@@ -109,7 +109,7 @@
 
 <br/>
 
-<a href="https://www.caeliusconsulting.com/"><img src="assets/experience-3.svg" width="100%" alt="Caelius Consulting, Mohali, Punjab. Technical Associate, Feb 2023 – Aug 2023." /></a>
+<a href="https://www.caeliusconsulting.com/"><img src="assets/experience-3-be154b4c.svg" width="100%" alt="Caelius Consulting, Mohali, Punjab. Technical Associate, Feb 2023 – Aug 2023." /></a>
 
 <br/>
 
@@ -129,12 +129,12 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/title-projects-dark.svg" />
-  <img src="assets/title-projects.svg" width="100%" alt="Things I’ve built" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/title-projects-dark-0f1dabe8.svg" />
+  <img src="assets/title-projects-93d7635c.svg" width="100%" alt="Things I’ve built" />
 </picture>
 
 <p align="center">
-  <img src="assets/projects.svg" width="100%" alt="Projects: Fleet Scheduler (Logistics · SaaS): Multi-tenant SaaS for last-mile delivery companies to schedule drivers across stations and reach them by SMS, email, chat and voice. Continuity Connect (Healthcare · Aged care): One platform for care providers to plan care, document, schedule and stay compliant across organisations. Family Health Hub (Healthcare): HIPAA-compliant appointment booking and management for patients, professionals and services. AiVisor (Automotive): Vehicle service scheduling for car dealerships: book, update and cancel through Xtime. SafeSphere (QHSE management): Safety and compliance reporting for oil &amp; gas, construction and manufacturing. IHG (Hospitality): Scalable MuleSoft APIs for InterContinental Hotels Group." />
+  <img src="assets/projects-dc960e9a.svg" width="100%" alt="Projects: Fleet Scheduler (Logistics · SaaS): Multi-tenant SaaS for last-mile delivery companies to schedule drivers across stations and reach them by SMS, email, chat and voice. Continuity Connect (Healthcare · Aged care): One platform for care providers to plan care, document, schedule and stay compliant across organisations. Family Health Hub (Healthcare): HIPAA-compliant appointment booking and management for patients, professionals and services. AiVisor (Automotive): Vehicle service scheduling for car dealerships: book, update and cancel through Xtime. SafeSphere (QHSE management): Safety and compliance reporting for oil &amp; gas, construction and manufacturing. IHG (Hospitality): Scalable MuleSoft APIs for InterContinental Hotels Group." />
 </p>
 
 <details>
@@ -250,8 +250,8 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/title-stats-dark.svg" />
-  <img src="assets/title-stats.svg" width="100%" alt="GitHub stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/title-stats-dark-f5a09c15.svg" />
+  <img src="assets/title-stats-427bd2b4.svg" width="100%" alt="GitHub stats" />
 </picture>
 
 <p align="center">
@@ -265,48 +265,48 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/title-learning-dark.svg" />
-  <img src="assets/title-learning.svg" width="100%" alt="Learning &amp; certificates" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/title-learning-dark-c0d06627.svg" />
+  <img src="assets/title-learning-4f4d9016.svg" width="100%" alt="Learning &amp; certificates" />
 </picture>
 
 <p align="center">
-  <img src="assets/learning.svg" width="100%" alt="Education: Bachelor of Technology Computer Science Engineering. Certificates: MuleSoft Certified Integration Associate; SQL Certified HackerRank." />
+  <img src="assets/learning-a44df2cf.svg" width="100%" alt="Education: Bachelor of Technology Computer Science Engineering. Certificates: MuleSoft Certified Integration Associate; SQL Certified HackerRank." />
 </p>
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/title-links-dark.svg" />
-  <img src="assets/title-links.svg" width="100%" alt="Find me around the web" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/title-links-dark-56f23b9e.svg" />
+  <img src="assets/title-links-a2c46639.svg" width="100%" alt="Find me around the web" />
 </picture>
 
 <p align="center">
-  <a href="https://github.com/Saurav-TB-Pandey"><img src="assets/btn-github-lilac.svg" height="60" alt="Follow on GitHub" /></a>
-  <a href="https://linkedin.com/in/pandeysaurav"><img src="assets/btn-linkedin-sky.svg" height="60" alt="Connect on LinkedIn" /></a>
-  <a href="https://instagram.com/saurav_tb_pandey"><img src="assets/btn-instagram-pink.svg" height="60" alt="Find me on Instagram" /></a>
-  <a href="https://facebook.com/pandeyji9570"><img src="assets/btn-facebook-sky.svg" height="60" alt="Find me on Facebook" /></a>
-  <a href="https://twitter.com/pandeyji9570"><img src="assets/btn-x-twitter-paper.svg" height="60" alt="Follow on X / Twitter" /></a>
-  <a href="https://www.youtube.com/@tamanna_kiski_kroge"><img src="assets/btn-youtube-coral.svg" height="60" alt="Watch on YouTube" /></a>
+  <a href="https://github.com/Saurav-TB-Pandey"><img src="assets/btn-github-lilac-e460c441.svg" height="60" alt="Follow on GitHub" /></a>
+  <a href="https://linkedin.com/in/pandeysaurav"><img src="assets/btn-linkedin-sky-14419aaf.svg" height="60" alt="Connect on LinkedIn" /></a>
+  <a href="https://instagram.com/saurav_tb_pandey"><img src="assets/btn-instagram-pink-dcea7954.svg" height="60" alt="Find me on Instagram" /></a>
+  <a href="https://facebook.com/pandeyji9570"><img src="assets/btn-facebook-sky-c6d6c5a3.svg" height="60" alt="Find me on Facebook" /></a>
+  <a href="https://twitter.com/pandeyji9570"><img src="assets/btn-x-twitter-paper-94ab3b58.svg" height="60" alt="Follow on X / Twitter" /></a>
+  <a href="https://www.youtube.com/@tamanna_kiski_kroge"><img src="assets/btn-youtube-coral-002d2fde.svg" height="60" alt="Watch on YouTube" /></a>
 </p>
 <p align="center">
-  <a href="https://leetcode.com/u/Saurav_TB_Pandey/"><img src="assets/btn-leetcode-tangerine.svg" height="60" alt="Solve with me on LeetCode" /></a>
-  <a href="https://www.hackerrank.com/pandeyji0495"><img src="assets/btn-hackerrank-mint.svg" height="60" alt="Solve with me on HackerRank" /></a>
-  <a href="https://www.codechef.com/users/pandeyji9570"><img src="assets/btn-codechef-lemon.svg" height="60" alt="Solve with me on CodeChef" /></a>
+  <a href="https://leetcode.com/u/Saurav_TB_Pandey/"><img src="assets/btn-leetcode-tangerine-1fe01e5d.svg" height="60" alt="Solve with me on LeetCode" /></a>
+  <a href="https://www.hackerrank.com/pandeyji0495"><img src="assets/btn-hackerrank-mint-8843ae1a.svg" height="60" alt="Solve with me on HackerRank" /></a>
+  <a href="https://www.codechef.com/users/pandeyji9570"><img src="assets/btn-codechef-lemon-6851419a.svg" height="60" alt="Solve with me on CodeChef" /></a>
 </p>
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/title-contact-dark.svg" />
-  <img src="assets/title-contact.svg" width="100%" alt="Say hi" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/title-contact-dark-1a543480.svg" />
+  <img src="assets/title-contact-2e0b5eb6.svg" width="100%" alt="Say hi" />
 </picture>
 
 <p align="center">
-  <a href="mailto:sauravtbpandey@gmail.com"><img src="assets/contact.svg" width="100%" alt="Email: sauravtbpandey@gmail.com. Phone: +91 88515 39180. Location: Jaipur, Rajasthan, India. Portfolio: saurav-tb-pandey.vercel.app. Languages: English and Hindi, both fluent. Availability: Open to relocation and remote work." /></a>
+  <a href="mailto:sauravtbpandey@gmail.com"><img src="assets/contact-265058fc.svg" width="100%" alt="Email: sauravtbpandey@gmail.com. Phone: +91 88515 39180. Location: Jaipur, Rajasthan, India. Portfolio: saurav-tb-pandey.vercel.app. Languages: English and Hindi, both fluent. Availability: Open to relocation and remote work." /></a>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="assets/footer.svg" width="100%" alt="Let’s build something amazing together! “Code is like humor. When you have to explain it, it’s bad.”  — Cory House" />
+  <img src="assets/footer-9d032ab2.svg" width="100%" alt="Let’s build something amazing together! “Code is like humor. When you have to explain it, it’s bad.”  — Cory House" />
 </p>
